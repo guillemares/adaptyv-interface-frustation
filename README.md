@@ -7,9 +7,6 @@ This repository contains the analyses and results for the Anthropic × Adaptyv P
 ```text
 Competition/
 ├── Challenge-1/
-├── Challenge-2/
-├── Challenge-3/
-├── Challenge-4/
 └── Challenge-5/
 ```
 
@@ -18,7 +15,7 @@ Competition/
 | Challenge                     | Methods Used               |
 | ----------------------------- | -------------------------- |
 | [Challenge 1](./Challenge-1/) | BindCraft2 + AF3 + Frustation analysis |
-| [Challenge 2](./Challenge-2/) | BindCraft2 + AF3 + Frustation analysis |
+| [Challenge 5](./Challenge-5/) | BindCraft2 + AF3 + Frustation analysis |
 <!-- 
 | [Challenge 3](./Challenge-3/) | BindCraft2 + AF3 + Frustation analysis |
 | [Challenge 4](./Challenge-4/) | BindCraft2 + AF3 + Frustation analysis |
